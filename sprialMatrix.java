@@ -1,3 +1,5 @@
+package arrays;
+
 public class sprialMatrix {
     public static void printSpiralMatrix(int[][] matirx){
     int startRow = 0;

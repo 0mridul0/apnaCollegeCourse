@@ -1,3 +1,5 @@
+package arrays;
+
 public class stairCaseSearch {
     public static boolean staircase(int matrix[][],int key)
     {

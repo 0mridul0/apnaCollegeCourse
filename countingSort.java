@@ -1,3 +1,5 @@
+package arrays;
+
 public class countingSort {
     public static int arrayMax(int[] arr)
     {

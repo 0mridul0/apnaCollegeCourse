@@ -1,3 +1,5 @@
+package arrays;
+
 public class trappingRainwater {
     static int waterStored(int[] rainWater, int[] leftMax,int[] rightMax)
     {
